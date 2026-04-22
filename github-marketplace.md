@@ -39,8 +39,7 @@ Install the Render app, then connect any repository to get:
 No serverless timeouts for agents that think for minutes. Render gives AI workloads what they actually need: long-running containers, WebSockets, persistent state, and durable workflows via the Render SDK. No per-seat tax that punishes growing teams. No egress meter spinning every time a user loads a page. Predictable pricing and bundled bandwidth, so your AI-native stack scales without blowing up your margins.
 
 SOC 2 Type 2, HIPAA, ISO 27001, and GDPR ready.  
-Trusted by Twilio, Shopify, and thousands of teams shipping real products.
 
-![RENDER CUSTOMER](https://marketplace-assets.onrender.com/images/logos.png)
+![RENDER CUSTOMER](https://marketplace-assets.onrender.com/images/cust-logos.png)
 
 **Zero ops, zero surprises.**  Start free at [render.com](https://render.com).
