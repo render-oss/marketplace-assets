@@ -1,4 +1,4 @@
-![\[HERO IMAGE: 1200x600 PNG or GIF\]]()
+![Banner](https://marketplace-assets.onrender.com/images/banner.png)
 
 **Your fastest path to production.** Render is the cloud for builders, with intuitive infrastructure to scale any app or agent from your first user to your billionth. Push code, go live. No cold starts, no timeouts, no surprise bills.
 
@@ -20,7 +20,7 @@ Install the Render app, then connect any repository to get:
 - **Managed Postgres** with HA, read replicas, and point-in-time recovery
 - **Key Value** (Redis-compatible) for caching and queues
 
-![ARCHITECTURE DIAGRAM]()
+![ARCHITECTURE DIAGRAM](https://marketplace-assets.onrender.com/images/diagram.png)
 
 ### Intuitive infrastructure, designed for builders
 
