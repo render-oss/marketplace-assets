@@ -8,7 +8,7 @@ Install the Render app, then connect any repository to get:
 - **Preview environments** for every pull request, fully managed and torn down on merge
 - **Deployment status on every commit and PR**, linked straight to logs in your Render dashboard
 
-![PR PREVIEW IMAGE]()
+![PR PREVIEW IMAGE](https://marketplace-assets.onrender.com/images/deploy.png)
 
 ### Whatever your stack, it runs on Render
 
@@ -32,7 +32,7 @@ Install the Render app, then connect any repository to get:
 - **REST API, CLI, MCP server, and webhooks** to automate anything
 - **MCP server, AI rules, and agent skills** so Claude Code, Cursor, Codex, and other coding agents ship on Render natively
 
-![DASHBOARD IMAGE]()
+![DASHBOARD IMAGE](https://marketplace-assets.onrender.com/images/dash.png)
 
 ### Why builders pick Render
 
@@ -40,6 +40,6 @@ No serverless timeouts for agents that think for minutes. Render gives AI worklo
 
 SOC 2 Type 2, HIPAA, ISO 27001, and GDPR ready. Trusted by Twilio, Shopify, and thousands of teams shipping real products.
 
-![RENDER CUSTOMER LOGOS]()
+![RENDER CUSTOMER LOGOS](https://marketplace-assets.onrender.com/images/logos.png)
 
 **Zero ops, zero surprises.**  Start free at [render.com](https://render.com).
