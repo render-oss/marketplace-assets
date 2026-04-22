@@ -41,6 +41,6 @@ No serverless timeouts for agents that think for minutes. Render gives AI worklo
 SOC 2 Type 2, HIPAA, ISO 27001, and GDPR ready.  
 Trusted by Twilio, Shopify, and thousands of teams shipping real products.
 
-![RENDER CUSTOMER LOGOS](https://marketplace-assets.onrender.com/images/logos.png)
+![RENDER CUSTOMER](https://marketplace-assets.onrender.com/images/logos.png)
 
 **Zero ops, zero surprises.**  Start free at [render.com](https://render.com).
