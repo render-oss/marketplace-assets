@@ -20,7 +20,7 @@ Install the Render app, then connect any repository to get:
 - **Managed Postgres** with HA, read replicas, and point-in-time recovery
 - **Key Value** (Redis-compatible) for caching and queues
 
-![ARCHITECTURE DIAGRAM](https://marketplace-assets.onrender.com/images/diagram.png)
+![ARCHITECTURE DIAGRAM](https://marketplace-assets.onrender.com/images/arch.png)
 
 ### Intuitive infrastructure, designed for builders
 
