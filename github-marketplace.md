@@ -1,6 +1,6 @@
 ![Banner](https://marketplace-assets.onrender.com/images/banner.png)
 
-**Your fastest path to production.** Render is the cloud for builders, with intuitive infrastructure to scale any app or agent from your first user to your billionth. Push code, go live. No cold starts, no timeouts, no surprise bills.
+Render is the cloud for builders, with intuitive infrastructure to scale any app or agent from your first user to your billionth. Push code, go live. No cold starts, no timeouts, no surprise bills.
 
 Install the Render app, then connect any repository to get:
 
@@ -38,7 +38,8 @@ Install the Render app, then connect any repository to get:
 
 No serverless timeouts for agents that think for minutes. Render gives AI workloads what they actually need: long-running containers, WebSockets, persistent state, and durable workflows via the Render SDK. No per-seat tax that punishes growing teams. No egress meter spinning every time a user loads a page. Predictable pricing and bundled bandwidth, so your AI-native stack scales without blowing up your margins.
 
-SOC 2 Type 2, HIPAA, ISO 27001, and GDPR ready. Trusted by Twilio, Shopify, and thousands of teams shipping real products.
+SOC 2 Type 2, HIPAA, ISO 27001, and GDPR ready.  
+Trusted by Twilio, Shopify, and thousands of teams shipping real products.
 
 ![RENDER CUSTOMER LOGOS](https://marketplace-assets.onrender.com/images/logos.png)
 
